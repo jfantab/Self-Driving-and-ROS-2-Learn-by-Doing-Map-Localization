@@ -1,0 +1,5 @@
+<library path="waypoint_tts_plugin">
+  <class type="nav2_waypoint_follower::TtsAtWaypoint" base_class_type="nav2_core::WaypointTaskExecutor">
+    <description>TTS at waypoint plugin</description>
+  </class>
+</library>
